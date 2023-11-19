@@ -139,7 +139,7 @@ function App() {
 								Java, ecc…
 							</li>
 						</ul>
-						<img src="/frontend-backend.png" alt="Frontend e Backend" />
+						<img src="/public/frontend-backend.png" alt="Frontend e Backend" />
 					</p>
 
 					<div className="sep"></div>
@@ -189,7 +189,7 @@ function App() {
 						</h4>
 						Un URL è una stringa che identifica il percorso della risorsa al quale si
 						vuole accedere. <br /> Questa è la struttura di un URL:
-						<img src="/url-structure.png" alt="rock" />
+						<img src="/public/url-structure.png" alt="rock" />
 					</p>
 
 					<p className="sub">
@@ -336,7 +336,7 @@ function App() {
 						agli amministratori dei siti web.
 					</p>
 
-					<img src="/cookie-monster.webp" alt="Cookies" />
+					<img src="/public/cookie-monster.webp" alt="Cookies" />
 
 					<div className="sep"></div>
 				</div>
@@ -386,7 +386,7 @@ function App() {
 						<em>FTP</em> (File Transfer Protocol) utilizzando per il trasferimento di
 						file tra un server e un client.
 					</p>
-					<img src="/server.jpg" alt="Server" />
+					<img src="/public/server.jpg" alt="Server" />
 					<p className="sub">
 						<h4>
 							<b>{"Socket"}</b>
@@ -451,14 +451,14 @@ function App() {
 						ricevute elabora e invia delle risposte appropriate.
 					</p>
 
-					<img src="/p2p_client-server.png" alt="P2P vs client-server" />
+					<img src="/public/p2p_client-server.png" alt="P2P vs client-server" />
 				</div>
 				<div className="footer">
 					<div className="contain">
 						Realizzato con amore utilizzando:
-						<img src="/vitejs.png" alt="" className="logo" /> +
-						<img src="/reactjs.png" alt="" className="logo" /> +
-						<img src="/github-pages.png" alt="" className="logo" />
+						<img src="/public/vitejs.png" alt="" className="logo" /> +
+						<img src="/public/reactjs.png" alt="" className="logo" /> +
+						<img src="/public/github-pages.png" alt="" className="logo" />
 					</div>
 				</div>
 				<div className="black">jakappa clown</div>
