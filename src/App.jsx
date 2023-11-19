@@ -110,7 +110,7 @@ function App() {
 					</div>
 					<div className="video-container">
 						<video className="initial-video" autoPlay muted preload loop>
-							<source src="/background-video.mp4" type="video/mp4" />
+							<source src="/tpsit/background-video.mp4" type="video/mp4" />
 						</video>
 					</div>
 				</div>
