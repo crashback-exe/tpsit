@@ -334,6 +334,8 @@ $white: white;
   align-items: center;
 
   textarea {
+	resize: none;
+	
     transition: 0.2s;
     border-radius: 8px;
     padding: .5rem;
